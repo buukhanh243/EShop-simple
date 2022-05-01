@@ -1,12 +1,12 @@
 {
-  "name": "natours",
+  "name": "eshop-simple",
   "version": "1.0.0",
   "description": "Learning node, express and mongoDB",
   "main": "app.js",
   "scripts": {
     "start:dev": "nodemon server.js"
   },
-  "author": "Jonas Schmedtmann",
+  "author": "Khanh Buu",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
